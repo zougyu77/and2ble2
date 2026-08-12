@@ -1,0 +1,115 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-image: url("../img1/未标题-7.jpg");
+	background-position: center;
+}
+.header{
+	width:1000px;
+	height:60px;
+	margin: 0px auto;
+	background-image: url("../img1/未标题-3.jpg");
+}
+.main{
+	width: 1000px;
+	margin: 0px auto;
+}
+.box2{
+	
+	width: 438px;
+	height: 300px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box2 img{
+	width: 150px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
+.box3{
+	
+	width: 440px;
+	height: 300px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box3 img{
+	width: 200px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
+.box4{
+	
+	width: 438px;
+	height:300px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box4 img{
+	width: 140px;
+	height: 140px;
+	margin-right: 10px;
+	float: left;
+}
+.box5{
+	
+	width: 438px;
+	height: 300px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box5 img{
+	width: 200px;
+	height: 150px;
+	margin-right: 10px;
+	float: left;
+}
+.box6{
+	
+	width: 438px;
+	height: 350px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right:10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box6 img{
+	width: 150px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
+.box7{
+	
+	width: 438px;
+	height: 350px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 1px solid rgba(135,135,135,1.00);
+	float:left;
+}
+.box7 img{
+	width: 150px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
